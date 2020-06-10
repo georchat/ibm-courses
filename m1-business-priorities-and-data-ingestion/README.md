@@ -2,13 +2,7 @@
 
 This is the first course of a six part specialization.  You are STRONGLY encouraged to complete these courses in order as they are not individual independent courses, but part of a workflow where each course builds on the previous ones.
 
-This first course in the IBM AI Enterprise Workflow Certification specialization introduces you to the scope of the specialization and prerequisites.  
-Specifically, the courses in this specialization are meant for practicing data scientists who are knowledgeable about probability, statistics,
-linear algebra, and Python tooling for data science and machine learning. A hypothetical streaming media company will be introduced as your new client.
-You will be introduced to the concept of design thinking, IBMs framework for organizing large enterprise AI projects. 
-You will also be introduced to the basics of scientific thinking, because the quality that distinguishes a seasoned data scientist from a beginner is creative,
-scientific thinking. Finally you will start your work for the hypothetical media company by understanding the data they have, and by building a data ingestion
-pipeline using Python and Jupyter notebooks.   By the end of this course you should be able to: 
+This first course in the IBM AI Enterprise Workflow Certification specialization introduces you to the scope of the specialization and prerequisites. Specifically, the courses in this specialization are meant for practicing data scientists who are knowledgeable about probability, statistics, linear algebra, and Python tooling for data science and machine learning. A hypothetical streaming media company will be introduced as your new client. You will be introduced to the concept of design thinking, IBMs framework for organizing large enterprise AI projects. You will also be introduced to the basics of scientific thinking, because the quality that distinguishes a seasoned data scientist from a beginner is creative, scientific thinking. Finally you will start your work for the hypothetical media company by understanding the data they have, and by building a data ingestion pipeline using Python and Jupyter notebooks. By the end of this course you should be able to: 
 
 1.  Know the advantages of carrying out data science using a structured process 
 2.  Describe how the stages of design thinking correspond to the AI enterprise workflow 
