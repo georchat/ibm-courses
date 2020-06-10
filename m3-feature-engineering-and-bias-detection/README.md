@@ -1,13 +1,8 @@
 # AI Workflow: Feature Engineering and Bias Detection
 
-This is the third course in the IBM AI Enterprise Workflow Certification specialization. You are STRONGLY encouraged to complete these courses in order
-as they are not individual independent courses, but part of a workflow where each course builds on the previous ones.  
+This is the third course in the IBM AI Enterprise Workflow Certification specialization. You are STRONGLY encouraged to complete these courses in order as they are not individual independent courses, but part of a workflow where each course builds on the previous ones.  
 
-Course 3 introduces you to the next stage of the workflow for our hypothetical media company. In this stage of work you will learn best practices for feature engineering,
-handling class imbalances and detecting bias in the data. Class imbalances can seriously affect the validity of your machine learning models, and the mitigation of bias in data
-is essential to reducing the risk associated with biased models. These topics will be followed by sections on best practices for dimension reduction, outlier detection,
-and unsupervised learning techniques for finding patterns in your data. The case studies will focus on topic modeling and data visualization. By the end of this course
-you will be able to: 
+Course 3 introduces you to the next stage of the workflow for our hypothetical media company. In this stage of work you will learn best practices for feature engineering, handling class imbalances and detecting bias in the data. Class imbalances can seriously affect the validity of your machine learning models, and the mitigation of bias in data is essential to reducing the risk associated with biased models. These topics will be followed by sections on best practices for dimension reduction, outlier detection, and unsupervised learning techniques for finding patterns in your data. The case studies will focus on topic modeling and data visualization. By the end of this course you will be able to:
 
 1.  Employ the tools that help address class and class imbalance issues 
 2.  Explain the ethical considerations regarding bias in data 
