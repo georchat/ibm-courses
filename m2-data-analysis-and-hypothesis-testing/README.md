@@ -1,12 +1,8 @@
 # AI Workflow: Data Analysis and Hypothesis Testing
 
-This is the second course in the IBM AI Enterprise Workflow Certification specialization. You are STRONGLY encouraged to complete these courses in order
-as they are not individual independent courses, but part of a workflow where each course builds on the previous ones.  
+This is the second course in the IBM AI Enterprise Workflow Certification specialization. You are STRONGLY encouraged to complete these courses in order as they are not individual independent courses, but part of a workflow where each course builds on the previous ones.  
 
-In this course you will begin your work for a hypothetical streaming media company by doing exploratory data analysis (EDA). Best practices for data visualization,
-handling missing data, and hypothesis testing will be introduced to you as part of your work. You will learn techniques of estimation with probability distributions
-and extending these estimates to apply null hypothesis significance tests. You will apply what you learn through two hands on case studies: data visualization and multiple
-testing using a simple pipeline. By the end of this course you should be able to:
+In this course you will begin your work for a hypothetical streaming media company by doing exploratory data analysis (EDA). Best practices for data visualization, handling missing data, and hypothesis testing will be introduced to you as part of your work. You will learn techniques of estimation with probability distributions and extending these estimates to apply null hypothesis significance tests. You will apply what you learn through two hands on case studies: data visualization and multiple testing using a simple pipeline. By the end of this course you should be able to:
 
 1.  List several best practices concerning EDA and data visualization 
 2.  Create a simple dashboard in Watson Studio 
