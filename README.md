@@ -6,6 +6,8 @@ This project contains all the code, data and notebooks from the course IBM Data 
 * Module 8 - Machine Learning with Python
 * Module 9 - Applied Data Science Capstone
 
+IBM credited a [digital badge](https://www.youracclaim.com/badges/c97ddbee-a279-495c-ac78-6f2f81df3d9c) after successfully completing the specialization.
+
 ## About this Professional Certificate
 This Professional Certificate from IBM is intended for anyone interested in developing skills and experience to pursue a career in Data Science or Machine Learning.
 
