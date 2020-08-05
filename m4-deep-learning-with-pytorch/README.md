@@ -6,3 +6,5 @@ Learning Outcomes: After completing this course, learners will be able to:
 explain and apply their knowledge of Deep Neural Networks and related machine learning methods
 know how to use Python libraries such as PyTorch for Deep Learning applications
 build Deep Neural Networks using PyTorch
+
+A [digital badge from IBM](https://www.youracclaim.com/badges/6ae50bfa-88b3-4844-8b0f-f039e4546ae1) has been credited after successfully completing this course.
