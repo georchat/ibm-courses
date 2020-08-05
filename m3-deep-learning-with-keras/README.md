@@ -7,3 +7,5 @@ describe what a neural network is, what a deep learning model is, and the differ
 demonstrate an understanding of unsupervised deep learning models such as autoencoders and restricted Boltzmann machines.
 demonstrate an understanding of supervised deep learning models such as convolutional neural networks and recurrent networks.
 build deep learning models and networks using the Keras library.
+
+A [digital badge from IBM](https://www.youracclaim.com/badges/03f340ce-3790-48f2-b43e-1fdb39bd34b9) has been credited after successfully completing this course.
