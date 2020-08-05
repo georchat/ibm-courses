@@ -20,3 +20,5 @@ Prerequisites:
 basic python programming
 basic machine learning (optional introduction videos are provided in this course as well)
 basic SQL skills for optional content
+
+A [digital badge](https://www.youracclaim.com/badges/bbd9e4c9-43c2-411b-b891-7d6f454ebf28) from IBM has been credited after successfully completing this course.
