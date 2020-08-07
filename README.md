@@ -8,4 +8,4 @@ Through hands-on projects, you’ll gain essential data science skills scaling m
 
 In addition to earning a Professional Certificate from Coursera, you will also receive a digital badge from IBM recognizing your proficiency in AI engineering.
 
-A [digital badge from IBM](https://www.youracclaim.com/badges/c97ddbee-a279-495c-ac78-6f2f81df3d9c) has been credited after successfully completing this course.
+A [digital badge from IBM](https://www.youracclaim.com/badges/e276d6f2-6ee8-4bbd-bc3c-712819cf1248) has been credited after successfully completing this course.
