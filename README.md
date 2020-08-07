@@ -7,3 +7,5 @@ You’ll master fundamental concepts of machine learning and deep learning, incl
 Through hands-on projects, you’ll gain essential data science skills scaling machine learning algorithms on big data using Apache Spark. You’ll build, train, and deploy different types of deep architectures, including convolutional neural networks, recurrent networks, and autoencoders.
 
 In addition to earning a Professional Certificate from Coursera, you will also receive a digital badge from IBM recognizing your proficiency in AI engineering.
+
+A [digital badge from IBM](https://www.youracclaim.com/badges/c97ddbee-a279-495c-ac78-6f2f81df3d9c) has been credited after successfully completing this course.
