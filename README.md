@@ -1,2 +1,2 @@
-# ibm-courses
-The repository contains the learning material for the IBM courses on coursera
+# IBM Courses on Coursera
+The repository contains the learning materials for the IBM courses on coursera
