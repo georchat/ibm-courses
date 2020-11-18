@@ -1,0 +1,11 @@
+movie_id,count,avg(rating),title,genres
+318,317,4.429022082018927,"Shawshank Redemption, The (1994)",Crime|Drama
+858,192,4.2890625,"Godfather, The (1972)",Crime|Drama
+2959,218,4.272935779816514,Fight Club (1999),Action|Crime|Drama|Thriller
+1221,129,4.25968992248062,"Godfather: Part II, The (1974)",Crime|Drama
+48516,107,4.252336448598131,"Departed, The (2006)",Crime|Drama|Thriller
+1213,126,4.25,Goodfellas (1990),Crime|Drama
+58559,149,4.238255033557047,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX
+50,204,4.237745098039215,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+1197,142,4.232394366197183,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance
+260,251,4.231075697211155,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
